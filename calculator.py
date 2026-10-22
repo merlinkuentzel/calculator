@@ -48,4 +48,4 @@ print("Welcome to the Python calculator!")
 query_calculations = input("How many calculations would you like to perform?: ")
 number_of_calculation = how_many_calculations(query_calculations)
 
-# test
+
